@@ -1,0 +1,38 @@
+header {
+  background-color: #363636;
+  width: auto;
+  padding: 20px;
+}
+
+nav {
+  display: inline-block;
+  width: auto;
+}
+
+nav ul {
+  border: 1px solid yellow;
+  width: 400px;
+}
+
+nav ul li {
+  display: inline;
+  border: 1px solid yellow;
+  padding: 10px;
+  border: 10px;
+}
+
+main {
+  
+}
+
+/* img, p, button {
+  float: left;
+  width: 33.3%;
+  padding: 10px;
+  box-sizing: border-box;
+} */
+
+footer {
+  background-color: #363636;
+  height: 100px;
+}
